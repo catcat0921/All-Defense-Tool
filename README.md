@@ -101,8 +101,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------- | ---------- |
-| Strix 是自主运行的 AI 代理，它们的行为就像真正的黑客一样——动态运行您的代码，发现漏洞，并通过实际的概念验证进行验证。 | https://github.com/usestrix/strix | 2026-06-08 |
-| Shannon 是一款用于 Web 应用和 API 的完全自主 AI 渗透测试工具。 | https://github.com/KeygraphHQ/shannon | 2026-06-05 |
+| Shannon 是一款用于 Web 应用和 API 的完全自主 AI 渗透测试工具。 | https://github.com/KeygraphHQ/shannon | 2026-06-12 |
+| Strix 是自主运行的 AI 代理，它们的行为就像真正的黑客一样——动态运行您的代码，发现漏洞，并通过实际的概念验证进行验证。 | https://github.com/usestrix/strix | 2026-06-09 |
 
 ## AI 安全攻防相关Plugins/Skill/MCP
 
@@ -110,9 +110,9 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 可以反编译Android APK/XAPK/JAR/AAR文件，并**提取**应用程序使用的**HTTP API——**改装端点、OkHttp调用、硬编码URL、身份验证模式 | https://github.com/SimoneAvogadro/android-reverse-engineering-skill | 2026-06-10 |
 | 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率 | https://github.com/Fausto-404/js-reverse-automation--skill | 2026-06-02 |
 | **WooYun Legacy** 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 插件，基于 WooYun（2010-2016）收录的 22,132 个业务逻辑漏洞案例，为 Claude 的安全测试输出注入**真实公司案例引用**、**量化统计数据**和**数据驱动的测试优先级排序**。 | https://github.com/tanweai/wooyun-legacy | 2026-05-11 |
-| 可以反编译Android APK/XAPK/JAR/AAR文件，并**提取**应用程序使用的**HTTP API——**改装端点、OkHttp调用、硬编码URL、身份验证模式 | https://github.com/SimoneAvogadro/android-reverse-engineering-skill | 2026-04-27 |
 | 基于 Claude Code 的免杀技术研究与 Shellcode Loader 生成框架。 | https://github.com/JDArmy/Evasion-SubAgents | 2026-04-09 |
 | MCP-SecurityTools 是一个专注于收录和更新网络安全领域 MCP 的开源项目，旨在汇总、整理和优化各类与 MCP 相关的安全工具、技术及实战经验。 | https://github.com/Ta0ing/MCP-SecurityTools | 2025-04-07 |
 
@@ -133,9 +133,9 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | --------------------------------------------- | --- |
-| 单兵作战武器库，你值得拥有 | https://github.com/yaklang/yakit | 2026-06-08 |
+| 单兵作战武器库，你值得拥有 | https://github.com/yaklang/yakit | 2026-06-15 |
+| ScopeSentry-网络空间测绘、子域名枚举、端口扫描、敏感信息发现、漏洞扫描、分布式节点 | https://github.com/Autumn-27/ScopeSentry-Scan | 2026-06-10 |
 | reconFTW 集成了30个工具的信息收集利器 | https://github.com/six2dez/reconftw | 2026-05-15 |
-| ScopeSentry-网络空间测绘、子域名枚举、端口扫描、敏感信息发现、漏洞扫描、分布式节点 | https://github.com/Autumn-27/ScopeSentry-Scan | 2026-05-14 |
 | 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用 | https://github.com/78778443/QingScan | 2026-05-06 |
 | 安全服务集成化工具平台 | https://github.com/qiwentaidi/Slack | 2026-04-29 |
 | 自动化侦查框架 | https://github.com/yogeshojha/rengine | 2026-03-21 |
@@ -196,10 +196,10 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------- | --- |
-| Web path scanner  目录扫描工具 | https://github.com/maurosoria/dirsearch | 2026-06-08 |
-| katana 是 projectdiscovery 项目中的一个网页链接抓取工具，可以自动解析js文件。新一代爬行框架。 | https://github.com/projectdiscovery/katana | 2026-06-04 |
-| Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 2026-06-01 |
-| Directory/File, DNS and VHost busting tool written in Go | https://github.com/OJ/gobuster | 2026-05-30 |
+| Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 2026-06-14 |
+| Web path scanner  目录扫描工具 | https://github.com/maurosoria/dirsearch | 2026-06-12 |
+| Directory/File, DNS and VHost busting tool written in Go | https://github.com/OJ/gobuster | 2026-06-11 |
+| katana 是 projectdiscovery 项目中的一个网页链接抓取工具，可以自动解析js文件。新一代爬行框架。 | https://github.com/projectdiscovery/katana | 2026-06-08 |
 | 用Go编写的模糊测试工具 | https://github.com/ffuf/ffuf | 2026-04-26 |
 | 用Rust编写的快速，简单，递归的内容发现工具 | https://github.com/epi052/feroxbuster | 2026-04-15 |
 | dontgo403 是一个绕过 40X 错误的工具。 | https://github.com/devploit/dontgo403 | 2026-04-12 |
@@ -219,7 +219,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | -------------------------------------------------------- | ------------------------------------------------ | --- |
-| Golang实现Wappalyzer 指纹识别 | https://github.com/projectdiscovery/wappalyzergo | 2026-06-07 |
+| Golang实现Wappalyzer 指纹识别 | https://github.com/projectdiscovery/wappalyzergo | 2026-06-14 |
 | 一个web应用程序指纹识别工具 | https://github.com/urbanadventurer/WhatWeb | 2026-04-02 |
 | 红队行动下的重点资产指纹识别工具 | https://github.com/P001water/P1finger | 2025-08-05 |
 | 【暂未开源】一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。 | https://github.com/TideSec/TideFinger_Go | 2025-02-07 |
@@ -237,7 +237,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ----------------------------------------------------- | --- |
-| naabu 用 go 编写的快速端口扫描器 | https://github.com/projectdiscovery/naabu | 2026-06-02 |
+| naabu 用 go 编写的快速端口扫描器 | https://github.com/projectdiscovery/naabu | 2026-06-14 |
 | masnmapscan 一款端口扫描器。整合了masscan和nmap两款扫描器 | https://github.com/hellogoldsnakeman/masnmapscan-V1.0 | 2026-02-06 |
 | **MX1014** 是一个遵循 **“短平快”** 原则的灵活、轻便和快速端口扫描器 (满足红队需求的出网测试、网段探测和快速高危端口扫描等需求) | https://github.com/L-codes/MX1014 | 2025-05-28 |
 | 使用Golang开发的高并发网络扫描、服务探测工具 | https://github.com/Adminisme/ServerScan | 2024-06-16 |
@@ -253,7 +253,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------- | --- |
-| 远程调用(rpc)浏览器方法，免去抠代码补环境 | https://github.com/jxhczhl/JsRpc | 2026-06-01 |
+| 远程调用(rpc)浏览器方法，免去抠代码补环境 | https://github.com/jxhczhl/JsRpc | 2026-06-08 |
 | 快速调试前端 js 代码工具包 | https://github.com/cilame/v_jstools | 2026-04-27 |
 | 根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy，不同点在于经过了burp中转 | https://github.com/f0ng/autoDecoder | 2026-04-14 |
 | 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 | https://github.com/outlaws-bai/Galaxy | 2026-03-27 |
@@ -266,10 +266,10 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------- | --- |
+| HaE 请求高亮标记与信息提取的辅助型 BurpSuite 插件 | https://github.com/gh0stkey/HaE | 2026-06-09 |
 | domain_hunter_pro 一个资产管理类的Burp插件 | https://github.com/bit4woo/domain_hunter_pro | 2026-06-06 |
 | 有关burpsuite的插件(非商店),文章以及使用技巧的收集 | https://github.com/Mr-xn/BurpSuite-collections | 2026-06-04 |
 | 分析、拆解HTTP协议报文，提取HTTP协议报文中的参数、路径、文件、参数值等信息，并统计出现的频次，帮助用户构建出具有实战应用价值的Fuzzing字典。 | https://github.com/gh0stkey/CaA | 2026-05-25 |
-| HaE 请求高亮标记与信息提取的辅助型 BurpSuite 插件 | https://github.com/gh0stkey/HaE | 2026-05-20 |
 | 对权限绕过自动化bypass的burpsuite插件 | https://github.com/0x727/BypassPro | 2026-05-10 |
 | 添加一些右键菜单让burp用起来更顺畅 | https://github.com/bit4woo/knife | 2026-05-03 |
 | 自动探测请求走私漏洞 | https://github.com/portswigger/http-request-smuggler | 2026-04-28 |
@@ -301,8 +301,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------- | --- |
-| 反调试+路由守卫绕过+js逆向加解密快速定位 | https://github.com/0xsdeo/AntiDebug_Breaker | 2026-05-21 |
-| mitaka 用于 OSINT 搜索的Chrome和Firefox扩展 | https://github.com/ninoseki/mitaka | 2026-05-07 |
+| mitaka 用于 OSINT 搜索的Chrome和Firefox扩展 | https://github.com/ninoseki/mitaka | 2026-06-14 |
+| 反调试+路由守卫绕过+js逆向加解密快速定位 | https://github.com/0xsdeo/AntiDebug_Breaker | 2026-06-12 |
 | Hack-Tools  适用于红队的浏览器扩展插件 | https://github.com/LasCC/Hack-Tools | 2025-01-05 |
 | SwitchyOmega 浏览器的代理插件 | https://github.com/FelisCatus/SwitchyOmega | 2024-12-27 |
 | superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 同时支持数据导出 | https://github.com/dark-kingA/superSearchPlus | 2024-12-16 |
@@ -338,7 +338,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------ | ------------------------------------------------------------ | --- |
-| 从大量站点中收集用户个人信息 | https://github.com/soxoj/maigret | 2026-06-07 |
+| 从大量站点中收集用户个人信息 | https://github.com/soxoj/maigret | 2026-06-13 |
 | 社工字典密码生成 | https://github.com/Mebus/cupp | 2025-12-26 |
 | 根据邮箱自动搜索泄漏的密码信息 | https://github.com/D4Vinci/Cr3dOv3r | 2025-12-09 |
 | 社会工程学密码生成器，是一个利用个人信息生成密码的工具 | https://github.com/zgjx6/SocialEngineeringDictionaryGenerator | 2025-08-02 |
@@ -353,9 +353,9 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------- | --- |
-| WMPFDebugger 二开，微信小程序安全调试工具 | https://github.com/Spade-sec/First.git | 2026-06-07 |
+| 一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS)辅助分析工具 | https://github.com/sulab999/AppMessenger | 2026-06-11 |
+| WMPFDebugger 二开，微信小程序安全调试工具 | https://github.com/Spade-sec/First.git | 2026-06-08 |
 | 微信小程序辅助渗透-自动化 | https://github.com/eeeeeeeeee-code/e0e1-wx | 2026-05-26 |
-| 一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS)辅助分析工具 | https://github.com/sulab999/AppMessenger | 2026-05-24 |
 | 用于存取记录以前的基址和小程序文件 | https://github.com/eeeeeeeeee-code/wx-hook | 2026-05-04 |
 | 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计 | https://github.com/biggerstar/wedecode | 2026-05-01 |
 | （推荐）微信小程序反编译工具，.wxapkg 文件扫描 + 解密 + 解包工具 | https://github.com/wux1an/wxapkg | 2026-04-28 |
@@ -396,7 +396,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --- |
-| 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。 | https://github.com/projectdiscovery/nuclei | 2026-06-04 |
+| 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。 | https://github.com/projectdiscovery/nuclei | 2026-06-13 |
 | afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 | https://github.com/zan8in/afrog | 2026-06-02 |
 | 一个应用于web安全领域的漏洞批量扫描框架 | https://github.com/bigblackhat/oFx | 2025-10-24 |
 | 开源的远程漏洞测试框架 | https://github.com/knownsec/pocsuite3 | 2025-02-28 |
@@ -512,8 +512,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------ | --- |
-| 还是推荐fscan吧，还是还用，更新也快 | https://github.com/shadow1ng/fscan | 2026-06-04 |
-| zombie主要为了解决需要全场景(外网、内网、云)的服务的口令爆破功能 | https://github.com/chainreactors/zombie | 2026-05-31 |
+| 还是推荐fscan吧，还是还用，更新也快 | https://github.com/shadow1ng/fscan | 2026-06-14 |
+| zombie主要为了解决需要全场景(外网、内网、云)的服务的口令爆破功能 | https://github.com/chainreactors/zombie | 2026-06-14 |
 | 爆破神器，懂得都懂 | https://github.com/vanhauser-thc/thc-hydra | 2026-05-28 |
 | 爆破Azure, ADFS, OWA, O365, Teams，smtp | https://github.com/nodauf/GoMapEnum | 2025-09-24 |
 | FTP,SSH,MYSQL,MSSQL等弱口令爆破工具 | https://github.com/BBD-YZZ/week-passwd | 2025-06-24 |
@@ -525,8 +525,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ---------------------------------------------------------- | --- |
-| 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 2026-06-07 |
-| 安全评估期间使用的多种类型列表的集合 | https://github.com/danielmiessler/SecLists | 2026-06-07 |
+| 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 2026-06-14 |
+| 安全评估期间使用的多种类型列表的集合 | https://github.com/danielmiessler/SecLists | 2026-06-13 |
 | 渗透测试仪和Bug赏金猎人的 Payload 库 | https://github.com/sh377c0d3/Payloads | 2026-04-01 |
 | Web 模糊测试字典与一些Payloads | https://github.com/gh0stkey/Web-Fuzzing-Box | 2026-03-23 |
 | 实战沉淀字典 | https://github.com/SexyBeast233/SecDictionary | 2026-03-17 |
@@ -543,11 +543,11 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --- |
-| DalFox 是一款功能强大的开源 XSS 扫描工具和参数分析器、实用工具 | https://github.com/hahwul/dalfox | 2026-06-07 |
-| 您将在其中找到我在 CTF、现实生活应用程序以及阅读研究和新闻中学到的每一个技巧 / 技巧 / 任何东西。 | https://github.com/HackTricks-wiki/hacktricks | 2026-06-07 |
-| jwt hack是jwt黑客/安全测试的工具。支持En/解码JWT，生成JWT攻击和非常快速破解的有效载荷（dict/brutefoce） | https://github.com/hahwul/jwt-hack | 2026-06-07 |
+| DalFox 是一款功能强大的开源 XSS 扫描工具和参数分析器、实用工具 | https://github.com/hahwul/dalfox | 2026-06-14 |
+| 您将在其中找到我在 CTF、现实生活应用程序以及阅读研究和新闻中学到的每一个技巧 / 技巧 / 任何东西。 | https://github.com/HackTricks-wiki/hacktricks | 2026-06-14 |
+| jwt hack是jwt黑客/安全测试的工具。支持En/解码JWT，生成JWT攻击和非常快速破解的有效载荷（dict/brutefoce） | https://github.com/hahwul/jwt-hack | 2026-06-14 |
+| 很常用的XSS平台 | https://github.com/beefproject/beef | 2026-06-12 |
 | Web 渗透测试 /CTF 的有用的payload大全 | https://github.com/swisskyrepo/PayloadsAllTheThings | 2026-06-06 |
-| 很常用的XSS平台 | https://github.com/beefproject/beef | 2026-06-04 |
 | 文件包含利用工具 | https://github.com/mzfr/liffy | 2026-05-19 |
 | 具有交互式界面的自动 SSTI 检测工具 | https://github.com/vladko312/SSTImap | 2026-04-25 |
 | SSRFmap，利用它可检测与利用 SSRF 漏洞， 同时它也整合了一些常用漏洞可以结合 SSRF 去利用 | https://github.com/swisskyrepo/SSRFmap | 2025-09-04 |
@@ -570,7 +570,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --- |
-| JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。 | https://github.com/qi4L/JYso | 2026-06-03 |
+| JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。 | https://github.com/qi4L/JYso | 2026-06-14 |
 | ysoserial修改版，着重修改`ysoserial.payloads.util.Gadgets.createTemplatesImpl`使其可以通过引入自定义class的形式来执行命令、内存马、反序列化回显 | https://github.com/Y4er/ysoserial | 2026-05-26 |
 | 原版反序列化利用工具 | https://github.com/frohoff/ysoserial | 2025-12-04 |
 | TopicsYsomap是一款适配于各类实际复杂环境的Java反序列化利用框架，可动态配置具备不同执行效果的Java反序列化利用链payload。 | https://github.com/wh1t3p1g/ysomap | 2025-02-17 |
@@ -687,8 +687,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ---------------------------------------------------- | --- |
-| Metasploit（MSF）是一个免费的、可下载的框架，通过它可以很容易地获取、开发并对计算机软件漏洞实施攻击。 | https://github.com/rapid7/metasploit-framework | 2026-06-08 |
-| Empire 是一个后利用和对手模拟框架，用于帮助红队和渗透测试人员。 | https://github.com/BC-SECURITY/Empire | 2026-06-05 |
+| Metasploit（MSF）是一个免费的、可下载的框架，通过它可以很容易地获取、开发并对计算机软件漏洞实施攻击。 | https://github.com/rapid7/metasploit-framework | 2026-06-15 |
+| Empire 是一个后利用和对手模拟框架，用于帮助红队和渗透测试人员。 | https://github.com/BC-SECURITY/Empire | 2026-06-15 |
 | 反弹shell就用这个 | https://github.com/WangYihang/Platypus | 2026-06-04 |
 | PingRAT使用ICMP有效载荷通过防火墙秘密传递C2流量。 | https://github.com/umutcamliyurt/PingRAT | 2026-05-21 |
 | 类似于cs | https://github.com/t3l3machus/Villain | 2025-05-21 |
@@ -704,7 +704,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | --------------------------------------------------------- | --------------------------------------- | --- |
-| 全平台系统提权辅助工具 | https://github.com/carlospolop/PEASS-ng | 2026-06-04 |
+| 全平台系统提权辅助工具 | https://github.com/carlospolop/PEASS-ng | 2026-06-08 |
 | Linux自动提权 | https://github.com/liamg/traitor | 2024-03-12 |
 | 一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程 | https://github.com/Ascotbe/Kernelhub | 2023-02-15 |
 | 提权辅助页 | https://i.hacking8.com/tiquan/ | - |
@@ -713,7 +713,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------ | --- |
-| Fscan 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。 | https://github.com/shadow1ng/fscan | 2026-06-04 |
+| Fscan 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。 | https://github.com/shadow1ng/fscan | 2026-06-14 |
 | 一个速度极快的内网扫描器，具备端口扫描、协议检测、指纹识别，暴力破解，漏洞探测等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种 | https://github.com/qi4L/qscan | 2026-05-24 |
 | 一款更高、更快、更强的全方位内网扫描工具 | https://github.com/P001water/P1soda | 2025-06-08 |
 | Ladon一款用于大型网络渗透的多线程插件化综合扫描神器 | https://github.com/k8gege/Ladon | 2025-03-24 |
@@ -744,8 +744,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | -------------------------------------------------- | --- |
-| 工具基于 CrackMapExec,针对大型Windows活动目录(AD)的后渗透工具 | https://github.com/Pennyw0rth/NetExec | 2026-06-07 |
-| 横向impacket工具包 | https://github.com/fortra/impacket | 2026-06-03 |
+| 工具基于 CrackMapExec,针对大型Windows活动目录(AD)的后渗透工具 | https://github.com/Pennyw0rth/NetExec | 2026-06-12 |
+| 横向impacket工具包 | https://github.com/fortra/impacket | 2026-06-11 |
 | 基于impacket的免杀横向渗透远程命令执行工具（推荐）。 | https://github.com/XiaoliChan/wmiexec-Pro | 2026-04-26 |
 | 一款比较好的CS后渗透模块插件 | https://github.com/pandasec888/taowu-cobalt-strike | 2025-11-24 |
 | WMIHACKER是一款免杀横向渗透远程命令执行工具。 | https://github.com/rootclay/WMIHACKER | 2025-01-20 |
@@ -788,9 +788,9 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ---------------------------------------------------- | --- |
+| pingtunnel 是把 tcp/udp/sock5 流量伪装成 icmp  流量进行转发的工具 | https://github.com/esrrhs/pingtunnel | 2026-06-08 |
 | 开源的跨平台对手仿真/红队框架 | https://github.com/BishopFox/sliver | 2026-06-03 |
 | 专注于内网穿透的高性能的反向代理应用 | https://github.com/fatedier/frp | 2026-06-03 |
-| pingtunnel 是把 tcp/udp/sock5 流量伪装成 icmp  流量进行转发的工具 | https://github.com/esrrhs/pingtunnel | 2026-04-17 |
 | 改进的reGeorg版本 | https://github.com/L-codes/Neo-reGeorg | 2026-03-11 |
 | grs内网穿透工具通过reality协议隐藏特征 | https://github.com/howmp/reality | 2025-12-04 |
 | goproxy 一款轻量级、功能强大、高性能的多种代理工具 | https://github.com/snail007/goproxy | 2025-09-02 |
@@ -849,7 +849,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ---------------------------------------- | --- |
-| Python爬虫代理IP池(proxy pool) | https://github.com/jhao104/proxy_pool | 2026-06-03 |
+| Python爬虫代理IP池(proxy pool) | https://github.com/jhao104/proxy_pool | 2026-06-09 |
 | deadpool代理池工具，可从hunter、quake、fofa等网络空间测绘平台取高质量socks5代理，或本地导入socks5代理，轮询使用代理进行流量转发。 | https://github.com/thinkoaa/Deadpool | 2026-05-06 |
 | 命令行全局代理--跨平台通用 | https://github.com/rofl0r/proxychains-ng | 2026-04-26 |
 | 一款功能强大的代理检查和IP地址轮转工具 | https://github.com/kitabisa/mubeng | 2025-10-08 |
@@ -863,7 +863,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ---------------------------------------------------- | --- |
-| 基于 Docker-Compose 的预建易受攻击环境 | https://github.com/vulhub/vulhub | 2026-05-12 |
+| 基于 Docker-Compose 的预建易受攻击环境 | https://github.com/vulhub/vulhub | 2026-06-14 |
 | GOAD是一个渗透测试活动目录实验室项目。该实验室的目的是为pentesters提供一个易受攻击的活动目录环境，以便用于练习通常的攻击技术。 | https://github.com/Orange-Cyberdefense/GOAD | 2026-03-12 |
 | 一个免费的云本地安全学习实验室列表，包括 CTF、自主研讨会、指导漏洞实验室和研究实验室。 | https://github.com/iknowjason/Awesome-CloudSec-Labs | 2025-10-01 |
 | Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。 | https://github.com/fofapro/vulfocus | 2025-09-09 |
@@ -959,7 +959,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ---------------------------------------------- | ---------------------------------------------- | --- |
-| Alibaba Java诊断利器Arthas | https://github.com/alibaba/arthas | 2026-06-08 |
+| Alibaba Java诊断利器Arthas | https://github.com/alibaba/arthas | 2026-06-11 |
 | 杀内存马的小工具 | https://github.com/r00t4dm/aLIEz | 2024-09-26 |
 | 通过jsp脚本扫描java web Filter/Servlet型内存马 | https://github.com/c0ny1/java-memshell-scanner | 2023-03-09 |
 | 检测绝大部分所谓的内存免杀马 | https://github.com/huoji120/DuckMemoryScan | 2022-09-15 |
@@ -993,8 +993,8 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------------- | --- |
+| 一款更利于全面学习内存马的注入工具 | https://github.com/ReaJason/MemShellParty | 2026-06-13 |
 | 该项目旨在竭尽所能的以简洁清晰的方式分享`Java安全`相关技术，将某些复杂的技术问题简单化，让更多的人能够学会`Java安全`。 | https://github.com/javaweb-sec/javaweb-sec | 2026-05-31 |
-| 一款更利于全面学习内存马的注入工具 | https://github.com/ReaJason/MemShellParty | 2026-05-30 |
 | 【三万字原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安 | https://github.com/W01fh4cker/LearnJavaMemshellFromZero | 2025-05-25 |
 | 实战场景较通用的 Java Rce 相关漏洞的利用方式 | https://github.com/Whoopsunix/JavaRce | 2025-03-06 |
 | A list for Web Security and Code Audit | https://github.com/ax1sX/SecurityList | 2024-12-03 |
@@ -1007,15 +1007,15 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | ------------------------------------------------ | --- |
-| 网络信息安全从业者面试指南 | https://github.com/FeeiCN/SecurityInterviewGuide | 2026-06-07 |
+| 网络信息安全从业者面试指南 | https://github.com/FeeiCN/SecurityInterviewGuide | 2026-06-10 |
 | 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ | https://github.com/vvmdx/Sec-Interview-4-2023 | 2024-06-27 |
 
 ## 实战红蓝资料集锦
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | --------------------------------------------- | --- |
+| 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | 2026-06-10 |
 | 2024-至今 1Day 漏洞 PoC 深度研究与复现归档。 | https://github.com/SourByte05/Vulnerability-Wiki-PoC | 2026-05-29 |
-| 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | 2026-05-15 |
 | 国外蓝队攻防知识库 | https://github.com/Purp1eW0lf/Blue-Team-Notes | 2026-04-14 |
 | 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 | https://github.com/J0o1ey/BountyHunterInChina | 2026-03-31 |
 
@@ -1023,7 +1023,7 @@
 
 | 项目简介 | 项目地址 | 最近更新 |
 | ------------------------------------------------------------ | --------------------------------------------------------- | --- |
-| KubeHound 是一个专为 Kubernetes 设计的工具，它通过自动化的方式计算集群内资源之间的潜在攻击路径。这一工具的核心价值在于其能够提供全面的集群扫描，生成直观的攻击图，并提出针对性的保护策略。 | https://github.com/DataDog/KubeHound | 2026-06-05 |
+| KubeHound 是一个专为 Kubernetes 设计的工具，它通过自动化的方式计算集群内资源之间的潜在攻击路径。这一工具的核心价值在于其能够提供全面的集群扫描，生成直观的攻击图，并提出针对性的保护策略。 | https://github.com/DataDog/KubeHound | 2026-06-14 |
 | 云渗透测试工具包 | https://github.com/404tk/cloudtoolkit | 2026-05-11 |
 | CDK是一款为容器环境定制的渗透测试工具，在已攻陷的容器内部提供零依赖的常用命令及PoC/EXP。集成Docker/K8s场景特有的 逃逸、横向移动、持久化利用方式，插件化管理 | https://github.com/cdk-team/CDK | 2026-05-01 |
 | 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看、执行命令、接管等等 | https://github.com/dark-kingA/cloudTools | 2026-02-26 |
